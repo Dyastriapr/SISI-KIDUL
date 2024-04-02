@@ -15,7 +15,7 @@ export const About = () => {
         </div>
       </div>
 
-      <div className='w-1/2  lg:mt-0 flex justify-end items-end '>
+      <div data-aos="fade-left" className='w-1/2  lg:mt-0 md:mt-0 flex justify-end items-end '>
         <img src={about} alt="" className=''/>
       </div>
     </div>

@@ -7,7 +7,7 @@ export const Hero = () => {
         <div className='w-1/2 flex flex-col mx-auto p-20'>
           <div className=''>
           <p className='text-[32px]'>Sarana Informasi Dan Sosialisasi </p>
-          <p className='text-[60px] text-custom-purple1 uppercase font-[750] leading-[1.2]'>Gerakan Transisi PAUD ke SD yang Menyenangkan</p>
+          <p className='text-[48px] text-custom-purple1 uppercase font-[750] leading-[1.2]'>Gerakan Transisi PAUD ke SD yang Menyenangkan</p>
           <p className='text-[20px] text-justify mt-6 font'>Kemendikbudristek telah menerbitkan kebijakan tentang Gerakan Transisi PAUD ke SD yang Menyenangkan pada Maret 2023 sebagai bagian dari gerakan Merdeka Belajar. </p>
 
 
